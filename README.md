@@ -140,3 +140,20 @@
    <br/>
    <a href="https://github.com/aly202012"><img alt="Ali Mohammed's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=aly202012&custom_title=Ali%20Mohammed%27s%20Contribution%20Graph&theme=react-dark" /></a>
   <br/>
+
+----
+
+<p align="center">
+  <p align="center">🥇Adding dynamically generated Kaggle Tier & Medals on My readme.🥇</p>
+</p>
+
+<p align="center">
+  <img src="https://road-to-kaggle-grandmaster.vercel.app/api/badges/alimohammedbakhiet/competition" />
+  <img src="https://road-to-kaggle-grandmaster.vercel.app/api/badges/alimohammedbakhiet/dataset" />
+  <img src="https://road-to-kaggle-grandmaster.vercel.app/api/badges/alimohammedbakhiet/notebook" />
+  <img src="https://road-to-kaggle-grandmaster.vercel.app/api/badges/alimohammedbakhiet/discussion" />
+</p>
+
+## License
+
+Original design licenses for tiers, medals and colors are all owned by Kaggle.
