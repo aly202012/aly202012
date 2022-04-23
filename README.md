@@ -24,7 +24,7 @@
 ## <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30px"> Connect with me
 <p align="center">
 <a href="https://linkedin.com/in/ali-mohammed-ab133a213" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="ali-mohammed-ab133a213" height="30" width="40" /></a>
-<a href="https://fb.com/Ali Mohammed" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="ali mohammed" height="30" width="40" /></a>
+<a href="https://fb.com/100070214742890" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="ali mohammed" height="30" width="40" /></a>
 <a href="https://kaggle.com/alimohammedbakhiet" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="alimohammedbakhiet" height="30" width="40" /></a>
 <a href="https://twitter.com/bakhiet_ali" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="bakhiet_ali" height="30" width="40" /></a>
 <a href="https://discord.gg/Gd6Qpjrk" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="Gd6Qpjrk" height="30" width="40" /></a>
